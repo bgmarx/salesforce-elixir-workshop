@@ -18,3 +18,7 @@
 * [Programming Phoenix](https://pragprog.com/book/phoenix/programming-phoenix)
 * [Function Web Development with Elixir, OTP, and Phoenix](https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix)
 * [Adopting Elixir](https://pragprog.com/book/tvmelixir/adopting-elixir)
+
+#### Erlang Books
+* [Learn You Some Erlang](http://learnyousomeerlang.com/)
+* [Designing for Scalability with Erlang/OTP](https://www.safaribooksonline.com/library/view/designing-for-scalability/9781449361556)
