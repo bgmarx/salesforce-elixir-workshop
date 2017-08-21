@@ -1,10 +1,11 @@
-defmodule ProblemA do
+defmodule Recursion do
   @moduledoc """
-  https://gist.github.com/bgmarx/72eb1184a13716b23f0fa5edc1c2ac78
+  Recusion functions
   """
 
   @doc """
+  Takes a list of integers and adds them up
   """
-  def words_with_more_than_five_characters(words, acc \\ []) do
+  def my_sum do
   end
 end

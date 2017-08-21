@@ -5,6 +5,7 @@ defmodule Recursion do
 
   @doc """
   Non-tail recursive fibonacci
+  (n-1) + (n-2)
   """
   def fib(0), do: 0
   def fib(1), do: 1
