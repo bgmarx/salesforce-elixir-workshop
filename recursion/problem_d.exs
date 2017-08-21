@@ -1,4 +1,4 @@
-defmodule Recursion do
+defmodule ProblemD do
   @moduledoc """
   Recusion functions
   """
