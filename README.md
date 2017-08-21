@@ -1,6 +1,6 @@
 ### Online Resources
-* [Elixir Lang](elixir-lang.org)
-* [Elixir School](elixirschool.com)
+* [Elixir Lang](http://elixir-lang.org)
+* [Elixir School](http://elixirschool.com)
 * [Elixir Forum](https://elixirforum.com)
 * [Elixir Slack](https://elixir-slackin.herokuapp.com/)
 * [Elixir Discord](https://discord.me/elixir-lang)
